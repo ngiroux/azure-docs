@@ -2107,7 +2107,7 @@ The resource provider operations are always evolving. To get the latest operatio
 > | Action | Microsoft.Devices/digitalTwins/operationresults/Read | Get the status of an operation against a Digital Twins Account |
 > | Action | Microsoft.Devices/digitalTwins/Read | Gets a list of the Digital Twins Accounts associated to an subscription |
 > | Action | Microsoft.Devices/digitalTwins/skus/Read | Get a list of the valid SKUs for Digital Twins Accounts |
-> | Action | Microsoft.Devices/digitalTwins/Write | Create a new Digitial Twins Account |
+> | Action | Microsoft.Devices/digitalTwins/Write | Create a new Digital Twins Account |
 > | Action | Microsoft.Devices/ElasticPools/diagnosticSettings/read | Gets the diagnostic setting for the resource |
 > | Action | Microsoft.Devices/ElasticPools/diagnosticSettings/write | Creates or updates the diagnostic setting for the resource |
 > | Action | Microsoft.Devices/elasticPools/iotHubTenants/certificates/Delete | Deletes Certificate |
